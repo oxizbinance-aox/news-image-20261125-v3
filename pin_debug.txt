@@ -1,0 +1,17 @@
+PIN DEBUG — lat/lon -> x/y (map 24,534-584,630)
+num | region | lat | lon | true x,y | shown x,y | on_land
+ 1 | Middle East |  27.18 |   56.27 | (392,570) | (408,580) | True
+ 2 | Asia        |  39.90 |  116.40 | (485,561) | (485,561) | True
+ 3 | Americas    |  38.90 |  -77.04 | (184,562) | (184,562) | True
+ 4 | Americas    |  37.35 | -121.95 | (114,563) | (114,563) | True
+ 5 | Europe      |  51.50 |   -0.12 | (304,553) | (288,543) | True
+ 6 | Africa      |  14.69 |  -16.90 | (278,579) | (278,579) | True
+ 7 | Europe      |  40.42 |   -3.70 | (298,561) | (298,575) | True
+ 8 | Asia        |  31.20 |  119.00 | (489,567) | (491,581) | True
+ 9 | Africa      |  -4.32 |   15.31 | (328,592) | (328,592) | True
+10 | Middle East |  35.69 |   51.39 | (384,564) | (384,564) | True
+11 | Europe      |  48.85 |    2.35 | (308,555) | (322,563) | True
+12 | Oceania     | -35.28 |  149.13 | (536,614) | (536,614) | True
+13 | Oceania     |  -9.43 |  159.96 | (553,596) | (553,596) | True
+regions: {'Middle East': 6, 'Asia': 7, 'Americas': 7, 'Europe': 7, 'Africa': 6, 'Oceania': 3, 'Global': 2}
+total stories: 38 | drawn: 13 | also: 25 | last also: 38
